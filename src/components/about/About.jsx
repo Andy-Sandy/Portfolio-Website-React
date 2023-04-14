@@ -22,7 +22,7 @@ function About() {
             <article className="about__card">
               <FaGraduationCap className='about__icon'/>
               <h5>Education</h5>
-              <small>Currently studying Computing at HVL Bergen</small>
+              <small>Currently studying Computer Engineering at HVL Bergen</small>
             </article>
 
             <article className="about__card">
