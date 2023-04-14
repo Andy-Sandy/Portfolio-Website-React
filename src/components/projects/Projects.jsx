@@ -1,16 +1,16 @@
 import React from 'react'
 import './projects.css'
-import IMG1 from '../../assets/home assistant.png'
+import IMG1 from '../../assets/portfolio website.png'
 import IMG2 from '../../assets/Three-js-project.png'
-import IMG3 from '../../assets/Android_Studio_Icon.png'
+import IMG3 from '../../assets/quiz app.png'
 
 
 const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'TeSSLa for Home Assistant',
-    github: 'https://github.com/Andy-Sandy/TeSSLa-for-HA'
+    title: 'Portfolio Website',
+    github: 'https://github.com/Andy-Sandy/Portfolio-Website-React'
   },
   {
     id: 2,
@@ -23,7 +23,7 @@ const data = [
     image: IMG3,
     title: 'Quiz App in Android Studio',
     github: 'https://github.com/Lyslo/Quizz_app'
-  }
+  },
 ]
 
 const Projects = () => {
