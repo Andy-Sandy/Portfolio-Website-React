@@ -18,13 +18,13 @@ const Footer = () => {
       </ul>
 
       <div className="footer__socials">
-        <a href='https://instagram.com'><AiFillInstagram/></a>
-        <a href='https://linkedin.com'><BsLinkedin/></a>
-        <a href='https://github.com'><FaGithub/></a>
+        <a href='https://www.instagram.com/andreassandblast/' target="_blank"><AiFillInstagram/></a>
+        <a href='https://www.linkedin.com/in/andreas-sandbl%C3%A5st-70607824b/' target="_blank"><BsLinkedin/></a>
+        <a href='https://github.com/Andy-Sandy?tab=repositories' target="_blank"><FaGithub/></a>
       </div>
 
-      <div className="footer__copyright">
-        <small>&copy; Andreas Sandblåst. All rights reserved</small>
+      <div className="footer__quote">
+        <small>An engineer's greatest invention is always the next one.</small>
       </div>
     </footer>
   )
