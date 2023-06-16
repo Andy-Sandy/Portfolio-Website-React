@@ -22,7 +22,7 @@ function About() {
             <article className="about__card">
               <FaGraduationCap className='about__icon'/>
               <h5>Education</h5>
-              <small>Currently studying Computer Engineering at HVL Bergen</small>
+              <small>Graduated Computer Engineering at HVL Bergen</small>
             </article>
 
             <article className="about__card">
@@ -35,7 +35,7 @@ function About() {
 
           <p>
             My education consists of Computer & Electronics from Romsdal VGS, 
-            Preliminary Course for Engineering from NTNU Ålesund and Computer Engineering which I'm currently studying at HVL Bergen. <br/>
+            Preliminary Course for Engineering from NTNU Ålesund and Computer Engineering at HVL Bergen. <br/>
             Most of my projects are related to school, but I've also made projects in my spare time, like this website!
           </p>
 
